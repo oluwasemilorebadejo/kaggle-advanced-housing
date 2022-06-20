@@ -11,9 +11,9 @@ In this project I built a regressions model capable of predicting house price of
 
 Tree based algorithms were used for model building starting with a Random Forest Regressor, then SVR, Linear Regressor, XGBoost Regressor and in last Decision Tree Regressor. Total five models were made.
 
-#Data
+# Data
 
-The dataset for this project is from kaggle's advanced housing price prediction v9. https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+The dataset for this project is from kaggle's advanced housing price prediction v9. This can be found at: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 # Tools Overview
 The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another and day to day.
