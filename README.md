@@ -5,11 +5,15 @@
 * Project Statement: 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each hom
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home
 
 In this project I built a regressions model capable of predicting house price of given instance with high variety of Independent variables.
 
 Tree based algorithms were used for model building starting with a Random Forest Regressor, then SVR, Linear Regressor, XGBoost Regressor and in last Decision Tree Regressor. Total five models were made.
+
+#Data
+
+The dataset for this project is from kaggle's advanced housing price prediction v9. https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 # Tools Overview
 The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another and day to day.
