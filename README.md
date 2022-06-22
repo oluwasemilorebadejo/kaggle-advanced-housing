@@ -28,7 +28,7 @@ Matplotlib is a comprehensive data visualization tool used to create static, ani
 
 Scikit-Learn: Instead of building machine learning models from scratch, Scikit-Learn makes it easy to use classical models in a few lines of code. This tool is adapted by almost the whole of the ML community and industries, from the startups to the big techs.
 
-OBSERVATIONS:
+# Observations:
 
 1) By taking a look at the data description, I noticed that the NA value for most of the variables actually means that variable isn’t present for that particular observation. For example, an observation which has it’s PoolQC variable as NA, actually means there is no Pool. Hence, I correctly replaced the NA values with None.
 
